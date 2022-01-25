@@ -1,0 +1,69 @@
+body{
+     
+    background-image:url('./assets/mix.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 105% 112%;
+}
+
+#wB{
+  
+    font-style:italic;
+    font-family: cursive;
+    
+    margin-left: 38%;
+    font-size:300%;
+    margin-bottom: 20px;
+    margin-top: 9px;
+    color: rgb(245, 20, 88);
+    text-shadow: 4px 4px 4px rgb(0, 0, 0), 6px -6px 6px rgb(15, 112, 150), 
+                4px 4px 2px rgb(248, 70, 70), -4px 4px 3px rgb(250, 248, 248);
+    
+}
+
+
+#canvas{
+    border: black 15px solid;
+    border-radius: 10px;
+    background-color:white;
+    margin-left: 12%;
+    margin-right: 5%;
+    box-shadow:5px 5px 10px 7px rgb(253, 250, 250);
+   
+}
+
+
+
+
+#panel{
+    position:fixed;
+    border:black 5px solid;
+    width: 7%;    
+    padding:3px;
+    margin: 3px;
+    margin-right: 0%;
+    justify-content: center;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    box-shadow:4px 4px 6px 5px rgb(244, 241, 245);
+    background-color: rgb(19, 19, 18);
+}
+
+.but{
+    
+    text-align: center;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding: 2px;
+    border: black 3px solid;
+    background-color: rgb(247, 190, 33);
+    border-radius: 20px;
+    box-shadow:2px 2px 6px 2px rgb(243, 33, 6);
+
+}
+
+.pic{
+    border-radius: 20px;
+    background-color: rgb(241, 241, 247);
+    box-shadow:2px 2px 6px 4px rgb(252, 250, 249);
+}
